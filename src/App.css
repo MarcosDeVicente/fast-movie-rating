@@ -1,0 +1,17 @@
+body {
+  background: rgb(45, 45, 45);
+  background: linear-gradient(
+    0deg,
+    rgba(45, 45, 45, 1) 0%,
+    rgba(36, 36, 36, 1) 100%
+  );
+  overflow: hidden;
+}
+.App {
+  background: rgb(45, 45, 45);
+  background: linear-gradient(
+    0deg,
+    rgba(45, 45, 45, 1) 0%,
+    rgba(36, 36, 36, 1) 100%
+  );
+}
